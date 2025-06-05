@@ -40,6 +40,9 @@ This project implements a comprehensive MATLAB-based image processing pipeline f
 - Final enhanced image displayed
 - Console output with evaluation metrics
 
+
+## ▶️ How to Run the Project
+
 ## 🛠 Requirements
 
 - MATLAB R2021a or later (recommended)
@@ -47,6 +50,26 @@ This project implements a comprehensive MATLAB-based image processing pipeline f
 - Statistics and Machine Learning Toolbox
 - Wavelet Toolbox
 
+You can run this project entirely in **[MATLAB Online](https://matlab.mathworks.com/)** — no installation required!
+
+### ✅ Steps to Run
+
+1. **Go to**: [https://matlab.mathworks.com](https://matlab.mathworks.com)
+
+2. **Login** using your MathWorks account (create one if needed — it’s free for students).
+
+3. **Create a new folder** (e.g., `UnderwaterHazeRemoval`).
+
+4. **Upload the following files** into that folder:
+   - `15.jpg` → Input underwater image  
+   - `1.jpg` → Ground truth image for evaluation  
+   - `your_script_name.m` → The MATLAB code file you wrote
+
+5. **Open the script** in the MATLAB Online editor.
+
+6. **Click the “Run” button** at the top of the editor or type this in the Command Window:
+   ```matlab
+   run('your_script_name.m')
 
 
 
