@@ -11,7 +11,9 @@ This project implements a comprehensive MATLAB-based image processing pipeline f
 - K-means clustering for image segmentation
 - Accuracy, sensitivity, and specificity evaluation
 - SSIM and PSNR calculation for quality assessment
-
+  
+## Dataset
+https://drive.google.com/drive/folders/1JshmfXnyVgTqIyGitT3aoEhojX_nOy6y?usp=sharing
 ## 🖼️ Sample Input
 
 - Underwater image (e.g., `15.jpg`)
